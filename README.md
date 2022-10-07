@@ -13,3 +13,5 @@ and pre-built templates.
 2. Question mark (?) - replaces a single character
 
 When using selector editor, we can use * to replace things that change. 
+<webctrl aaname = 'first place Jack harlow' -> 'first place *' 
+idx = '1'-> idx = '*'
